@@ -26,11 +26,11 @@ Dalam jaringan 5G, **network slicing** memungkinkan satu infrastruktur fisik dib
 
 ---
 ## 📸 Cuplikan Simulasi
+
 Beberapa hasil visualisasi dari simulasi network slicing:
 
-📍 Topologi Simulasi & Alokasi Slice
 <p align="center"> <img src="Outputs/output.png" alt="Topologi Simulasi Network Slicing 5G" width="600"/> </p>
-📉 Visualisasi Performa Saat Simulasi (n=5000, t=3600s)
+
 <p align="center"> <img src="Outputs/output_n5000_t3600.png" alt="Hasil simulasi 5G slicing pada skala besar" width="600"/> </p>
 
 ---
