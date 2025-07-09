@@ -1,4 +1,4 @@
-# 📡 Simulasi Network Slicing Jaringan 5G di Indonesia
+# 📡 Simulasi Network Slicing Jaringan 5G 
 
 Selamat datang di proyek **Simulasi Network Slicing 5G**! Proyek ini saya kembangkan untuk mengeksplorasi bagaimana teknologi *network slicing* pada jaringan 5G dapat digunakan untuk mengalokasikan sumber daya secara efisien dalam satu infrastruktur fisik yang sama.
 
